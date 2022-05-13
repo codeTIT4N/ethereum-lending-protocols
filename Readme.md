@@ -8,6 +8,7 @@ Step 1: Clone the repo and initialize the project
 
 ```shell
 git clone https://github.com/codeTIT4N/ethereum-lending-protocols.git
+cd ethereum-lending-protocols
 yarn
 ```
 

@@ -1,5 +1,7 @@
 # Supply and redeem on various ethereum lending protocols
 
+Supply and redeeming on Yearn, Compound and Aave
+
 ### To run this project
 
 Step 1: Clone the repo and initialize the project
